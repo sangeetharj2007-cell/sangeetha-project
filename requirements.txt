@@ -1,0 +1,9 @@
+# This project is a Vite + React app.
+# Dependencies are managed in package.json and installed with npm install.
+# The current dependency versions are listed below for reference:
+
+framer-motion==13.0.0
+lucide-react==1.30.0
+marked==18.0.9
+react==19.2.8
+react-dom==19.2.8
